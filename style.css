@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* হালকা ধূসর ব্যাকগ্রাউন্ড */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5d5c61;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.poem h2 {
+    color: #4a4e69;
+}
+/* এখানে আরও স্টাইল যোগ করুন */
